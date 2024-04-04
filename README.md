@@ -1,3 +1,3 @@
 # KOKOACLONE
 
-CSS gonna so much better!
+This file is for HTML and CSS practice
